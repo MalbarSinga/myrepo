@@ -2,3 +2,11 @@ body{
 	text-align:center;
 	background-color: grey;
 }
+main{
+	display: flex;
+
+}
+#erreur{
+	border-radius : 50%;
+	border-color : red;
+}
