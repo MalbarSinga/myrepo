@@ -10,3 +10,8 @@ main{
 	border-radius : 50%;
 	border-color : red;
 }
+
+html{
+	font-size: 62.5%;
+	text-decoration: none;
+}
