@@ -9,3 +9,8 @@ Todo list:
 
 oon pourra supprimer la todo list au fur et a mesure de l'avancée du projet
 
+
+
+DERNIERES DECISION
+
+SUITE A LA DERNIERE REUNION AVEC LE PRODUCT OWNER ON VA REPASSER A LA VERSION 0.0.1 CAR PLUS RIEN NE VONCIEN
